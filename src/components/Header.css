@@ -7,6 +7,7 @@
   display: flex;
   flex: 1;
   justify-content: space-between;
+  align-items: center;
 }
 .header-h2 {
   font-family: monospace;
